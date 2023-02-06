@@ -1,0 +1,46 @@
+* {
+    background-color:whitesmoke;
+}
+
+a {
+    color: #522886;
+    text-shadow: 1px 1px #ffffff52;
+    
+}
+
+a:hover {
+    color: #522886;
+    text-shadow: 1px 1px #ffffff52;
+}
+
+.blogss {
+    list-style-type:decimal-leading-zero;
+}
+
+.margen {
+    border: solid #8941e0;
+    border-width: 0.15em;
+}
+
+div p {
+    color: #522886;
+    text-shadow: 1px 1px #ffffff52;
+}
+
+.pblog {
+    padding: 0 20% ; 
+    color: #522886;
+    text-shadow: 1px 1px #ffffff52;
+}
+
+.ftmr, h1 {
+    padding: 0 1% ;
+}
+
+.imgpad {
+    padding: 1% 0;
+}
+
+table {
+    padding: 1% 1%;
+}
